@@ -11,13 +11,9 @@ public class Fabrica {
 
         //Coche 1
         car1.setMatricula("1234-DF");
-        car1.setMarca("Seat");
         car1.setModelo("Toledo");
         car1.setColor("azul");
-        car1.setTechoSolar(false);
         car1.setKilometros(200);
-        car1.setNumPuertas(3);
-        car1.setNumPlazas(5);
 
         //Coche 2
         car2.setMarca("Fiat");
@@ -25,7 +21,6 @@ public class Fabrica {
         car2.setColor("rojo");
         car2.setTechoSolar(true);
         car2.setKilometros(300);
-        car2.setNumPuertas(3);
         car2.setNumPlazas(2);
 
         //Coche 3
@@ -33,7 +28,6 @@ public class Fabrica {
         car3.setMarca("BMW");
         car3.setModelo("850");
         car3.setColor("gris");
-        car3.setTechoSolar(false);
         car3.setKilometros(400);
 
         //Coche 4
